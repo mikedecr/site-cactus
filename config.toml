@@ -1,4 +1,5 @@
-baseURL = "https://example.com"
+baseURL = "/"
+publishDir = "../mikedecr.github.io"
 languageCode = "en-us"
 title = "Michael DeCrescenzo"
 theme = "hugo-theme-cactus"
