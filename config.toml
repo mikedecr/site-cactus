@@ -62,7 +62,7 @@ weight = 6
   googleAnalyticsAsync = true # use asynchronous tracking. Synchronous tracking by default
 
   # Home page settings
-  description = "I am a statistical researcher working in quantitative/high-frequency finance. This site contains some info about me, some notes about my work, and blog posts about stats and statistical programming."
+  description = "[SITE UNDER CONSTRUCTION.] I am a statistical researcher working in quantitative/high-frequency finance. This site contains some info about me, some notes about my work, and blog posts about stats and statistical programming."
 
   mainSection = "posts" # your main section
   showAllPostsOnHomePage = false # default
